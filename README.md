@@ -48,10 +48,4 @@ Build a CNN model that learns to recognize digits (0–9) from grayscale images.
 
 ---
 
-## 📓 Interactive Notebook
-
-Run this project on Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chaitanya4B6/MachineLearning/blob/main/Project_CNN.ipynb)
-
----
 
